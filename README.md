@@ -1,2 +1,2 @@
 # hello-git
-My first repository
+My first repository with CNN assignment.
